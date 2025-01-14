@@ -68,7 +68,7 @@ class RateScreen extends StatelessWidget {
                   ],
                 ),
               ),
-              SizedBox(height: 8), // Space between header and content
+              SizedBox(height: 8),
               // Table content
               Expanded(
                 child: ListView.separated(

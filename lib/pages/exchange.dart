@@ -57,7 +57,7 @@ class _ExchangeScreenState extends State<ExchangeScreen> {
                       const Icon(
                         Icons.check,
                         color: Color(0xFF281C9D),
-                      ), // Add a checkmark icon for the selected currency
+                      ),
                   ],
                 ),
               ),

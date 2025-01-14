@@ -87,7 +87,7 @@ class InterestRateScreen extends StatelessWidget {
                   ],
                 ),
               ),
-              SizedBox(height: 8), // Add margin below the header
+              SizedBox(height: 8),
               // Table content
               Expanded(
                 child: ListView.separated(
